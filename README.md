@@ -16,11 +16,10 @@ https://h-tsukayama.github.io/sample20260801/
 余白を活かした
 ミニマルデザインを意識しました。
 
-閲覧者が迷わないよう、
-・About
-・Works
-・Contact
-の3階層で構成しています。
+閲覧者が迷わないよう、3階層で構成しています。
+- About
+- Works
+- Contact
 
 ## 使用技術
 - HTML
@@ -44,8 +43,8 @@ JavaScriptを利用して
 情報が読みやすいよう設計しました。
 
 ## 苦労した点
-・GitHub Pages公開
-・レスポンシブ対応
+- GitHub Pages公開
+- レスポンシブ対応
 
 特にCSSファイルが適用されない問題の解決に時間がかかりました。
 
