@@ -46,7 +46,7 @@
 
 </header>
 
-<section id="about">
+<section id="about" class="fade-in">
 
 <div class="container">
 
@@ -62,7 +62,7 @@
 
 </section>
 
-<section id="works">
+<section id="works" class="fade-in">
 
 <div class="container">
 
@@ -118,7 +118,7 @@
 
 </section>
 
-<section id="contact">
+<section id="contact" class="fade-in">
 
 <div class="container">
 
@@ -140,6 +140,20 @@
 
 </footer>
 
-</body>
+<script>
+const observer = new IntersectionObserver((entries)=>{
+    entries.forEach(entry=>{
+        if(entry.isIntersecting){
+            entry.target.classList.add('show');
+        }
+    });
+});
 
+document
+.querySelectorAll('.fade-in')
+.forEach(el=>observer.observe(el));
+
+</script>
+
+</body>
 </html>
