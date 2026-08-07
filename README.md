@@ -10,7 +10,7 @@
 制作物を紹介しています。
 
 ## サイトURL
-[https://ユーザー名.github.io](https://h-tsukayama.github.io/sample20260801/)
+https://h-tsukayama.github.io/sample20260801/
 
 ## コンセプト
 余白を活かした
