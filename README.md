@@ -1,7 +1,5 @@
-# sample20260801
-ポートフォリオ制作の準備用です。
-
 # Taisei Tsukayama Portfolio
+ポートフォリオ制作の準備用です。
 
 ## 概要
 
