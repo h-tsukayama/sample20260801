@@ -1,4 +1,4 @@
-# Taisei Tsukayama Portfolio
+# Taisei Tsukayama Portfolio（sample）
 ポートフォリオ制作の準備用です。
 
 ## 概要
